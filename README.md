@@ -1,16 +1,10 @@
-
 # LinkedHu
 
+This is a social media application that bears resemblance to LinkedIn. Users have the ability to generate posts within various categories such as events and meetings. Additionally, they can view the content shared by other users and establish communication with their friends. To use this project firstly extract backend and frontend files from zip files.
+
 ## Meetings Page
-![Screenshot_8](https://user-images.githubusercontent.com/86732121/169843393-eecc1323-40f2-4bd3-bbd3-2120b91b3537.png)
+<td style="width: 100%;"><img src=https://github.com/MErenKucuk/linkedHU/blob/main/meetingspage.png></td> <br/>
 
-## Meeting Detail Page
-![detail](https://user-images.githubusercontent.com/86732121/169843619-397b3f55-ff47-4515-9abc-c0e4f7ff5391.png)
-
-
-## Profile Page
-
-![Screenshot_9](https://user-images.githubusercontent.com/86732121/169843646-5c243ff0-19ad-4d24-831c-fef3da430760.png)
 
 ## Sign In Page
-![Screenshot_10](https://user-images.githubusercontent.com/86732121/169843706-502e7958-6410-4349-8e7b-a66355fb7e5c.png)
+<td style="width: 100%;"><img src=https://github.com/MErenKucuk/linkedHU/blob/main/signinpage.png></td> <br/>
